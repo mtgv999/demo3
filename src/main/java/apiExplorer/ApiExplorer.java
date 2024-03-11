@@ -40,5 +40,5 @@ public class ApiExplorer { public static void main
     }}
 //[1] 출처: 모름, 서울특별시, "Open API 샘플 코드",
 //https://data.seoul.go.kr/together/guide/useGuide.do, 모름.
-//[2] ApiExplorer, HelloServlet 제외 출처: 모름, 제로베이스
+//[2] ApiExplorer, HelloServlet 제외 출처: 모름, 제로베이스,
 // "mission-template-source", 모름, 모름
